@@ -1,0 +1,25 @@
+<suite name="My Test Suite" parallel="none" thread-count="3">
+
+	<test name="Test 1">
+		<classes>
+			<class name="testClasses.DemoTestNGClassFirst" />
+		</classes>
+		<methods>
+			<include name="TestFirst" />
+		</methods>
+	</test>
+	 
+
+ 
+	<test name="Test 2">
+		<classes>
+			<class name="testClasses.DemoTestNGClassTwo" />
+		</classes>
+		
+		<methods>
+			<include name="TestSecond" />
+		</methods>
+	</test>
+
+
+</suite>
