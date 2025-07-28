@@ -29,7 +29,7 @@
 
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>./src/test/resources/testng.xml</suiteXmlFile>
+						<suiteXmlFile>./src/test/resources/testng2.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

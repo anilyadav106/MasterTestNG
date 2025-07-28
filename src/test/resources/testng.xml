@@ -5,19 +5,18 @@
 			<class name="testClasses.DemoTestNGClassFirst" />
 		</classes>
 		<methods>
-			<include name="TestFirst" />
+			<include name="TestFirst1" />
 		</methods>
 	</test>
-	 
 
- 
+
 	<test name="Test 2">
 		<classes>
 			<class name="testClasses.DemoTestNGClassTwo" />
 		</classes>
-		
+
 		<methods>
-			<include name="TestSecond" />
+			<include name="TestSecond1" />
 		</methods>
 	</test>
 

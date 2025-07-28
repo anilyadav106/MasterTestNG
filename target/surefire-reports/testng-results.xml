@@ -1,37 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-14T13:57:53 IST" name="My Test Suite" finished-at="2025-02-14T13:57:53 IST" duration-ms="86">
+  <suite started-at="2025-05-29T10:50:41 IST" name="My Test Suite" finished-at="2025-05-29T10:50:41 IST" duration-ms="11">
     <groups>
     </groups>
-    <test started-at="2025-02-14T13:57:53 IST" name="Test 1" finished-at="2025-02-14T13:57:53 IST" duration-ms="38">
-      <class name="testClasses.DemoTestNGClassFirst">
-        <test-method is-config="true" signature="beforeTest1()[pri:0, instance:testClasses.DemoTestNGClassFirst@73e9cf30]" started-at="2025-02-14T13:57:53 IST" name="beforeTest1" finished-at="2025-02-14T13:57:53 IST" duration-ms="11" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest1 -->
-        <test-method is-config="true" signature="zbeforeTest()[pri:0, instance:testClasses.DemoTestNGClassFirst@73e9cf30]" started-at="2025-02-14T13:57:53 IST" name="zbeforeTest" finished-at="2025-02-14T13:57:53 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- zbeforeTest -->
-        <test-method signature="TestFirst()[pri:0, instance:testClasses.DemoTestNGClassFirst@73e9cf30]" started-at="2025-02-14T13:57:53 IST" name="TestFirst" finished-at="2025-02-14T13:57:53 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestFirst -->
-      </class> <!-- testClasses.DemoTestNGClassFirst -->
+    <test started-at="2025-05-29T10:50:41 IST" name="Test 1" finished-at="2025-05-29T10:50:41 IST" duration-ms="11">
     </test> <!-- Test 1 -->
-    <test started-at="2025-02-14T13:57:53 IST" name="Test 2" finished-at="2025-02-14T13:57:53 IST" duration-ms="3">
-      <class name="testClasses.DemoTestNGClassTwo">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testClasses.DemoTestNGClassTwo@2a7f1f10]" started-at="2025-02-14T13:57:53 IST" name="beforeTest" finished-at="2025-02-14T13:57:53 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method signature="TestSecond()[pri:0, instance:testClasses.DemoTestNGClassTwo@2a7f1f10]" started-at="2025-02-14T13:57:53 IST" name="TestSecond" finished-at="2025-02-14T13:57:53 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestSecond -->
-      </class> <!-- testClasses.DemoTestNGClassTwo -->
-    </test> <!-- Test 2 -->
   </suite> <!-- My Test Suite -->
 </testng-results>

@@ -1,0 +1,12 @@
+<suite name="My Test Suite" parallel="none" thread-count="3">
+
+	<test name="Test 1">
+	<classes>
+		   <class name="UnderstandInheritance.Parent" />
+			<class name="UnderstandInheritance.Child" />
+
+		</classes>
+		 
+	</test>
+ 
+</suite>
